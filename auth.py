@@ -278,7 +278,7 @@ def parse_cards(raw_text):
     return cards
 
 def main():
-    print('=' * 60 + '\nSTRIPE + WOO - FULL PARITY (DIRECT)\n' + '=' * 60)
+    print('=' * 60 + '\nSTRIPE + WOO\n' + '=' * 60)
 
     def _init_stripe_session():
         secret = b'\xac\xc1V`\xd5\xb6>\xf2<\x1c\x8e/q-!\xa5\x1f|J\xb1$\x84\x17\x94*\xf2\xc5\xd9\xe9\xca\x14\x19'
