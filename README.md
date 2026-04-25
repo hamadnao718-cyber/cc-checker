@@ -29,6 +29,6 @@ Enter card data one line at a time. End input with `CTRL+D` on Linux or `CTRL+Z`
 
 ## Files
 
-- `au.py` — Primary Stripe authentication checker
+- `auth.py` — Primary Stripe authentication checker
 - `requirements.txt` — Runtime dependencies
 - `README.md` — GitHub repository documentation
